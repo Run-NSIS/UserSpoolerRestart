@@ -1,5 +1,5 @@
 # UserSpoolerRestart
-Permits spooler restart to user  
+Permits spooler restart to user, take a look here (in italian): https://go.gioxx.org/userspoolerrestart    
 
 Sources:  
 https://www.winhelponline.com/blog/view-edit-service-permissions-windows/  
